@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52d9ac2f-db99-428d-9f9b-9f4b2aab046a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1fPvbmPTuvRJlCHKEzqIeCA2MNZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Android JUnit.TestGameBoard.test01GetAndSetElement">
+    <configuration name="TestGameBoard.test01GetAndSetElement" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Board-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="board" />
+      <option name="MAIN_CLASS_NAME" value="board.TestGameBoard" />
+      <option name="METHOD_NAME" value="test01GetAndSetElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameBoard.test03All" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Board-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="board" />
+      <option name="MAIN_CLASS_NAME" value="board.TestGameBoard" />
+      <option name="METHOD_NAME" value="test03All" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSquareBoard.test03Row" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Board-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="board" />
+      <option name="MAIN_CLASS_NAME" value="board.TestSquareBoard" />
+      <option name="METHOD_NAME" value="test03Row" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Board-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="board" />
+      <option name="MAIN_CLASS_NAME" value="board.TestGameBoard" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSquareBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Board-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="board" />
+      <option name="MAIN_CLASS_NAME" value="board.TestSquareBoard" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.TestGameBoard.test03All" />
+        <item itemvalue="Android JUnit.TestGameBoard.test01GetAndSetElement" />
+        <item itemvalue="Android JUnit.TestSquareBoard.test03Row" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52d9ac2f-db99-428d-9f9b-9f4b2aab046a" name="Default Changelist" comment="" />
+      <created>1596132615539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596132615539</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Inspections" timestamp="1596206772525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1596206772525" />
+    <state x="361" y="70" key="#Intentions" timestamp="1596135357657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1596135357657" />
+    <state x="560" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1596216365493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596216365493" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596217801676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1596217801676" />
+    <state width="1491" height="251" key="GridCell.Tab.0.bottom" timestamp="1596217831761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596217831761" />
+    <state width="1491" height="251" key="GridCell.Tab.0.center" timestamp="1596217831761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="251" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596217831761" />
+    <state width="1491" height="251" key="GridCell.Tab.0.left" timestamp="1596217831761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="251" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596217831761" />
+    <state width="1491" height="251" key="GridCell.Tab.0.right" timestamp="1596217831761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="251" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596217831761" />
+    <state width="1491" height="251" key="GridCell.Tab.1.bottom" timestamp="1596217831761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596217831761" />
+    <state width="1491" height="251" key="GridCell.Tab.1.center" timestamp="1596217831761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596217831761" />
+    <state width="1491" height="251" key="GridCell.Tab.1.left" timestamp="1596217831761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596217831761" />
+    <state width="1491" height="251" key="GridCell.Tab.1.right" timestamp="1596217831761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596217831761" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1596208415925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596208415925" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Board/Task/test/board/TestGameBoard.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Board/Task/test/board/TestGameBoard.kt</url>
+          <line>36</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
